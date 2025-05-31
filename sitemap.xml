@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bioconductor-translations.github.io/index.html</loc>
-    <lastmod>2025-05-31T08:03:02.229Z</lastmod>
+    <loc>https://bioconductor-translations.github.io/contributors.html</loc>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bioconductor-translations.github.io/news.html</loc>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bioconductor-translations.github.io/status.html</loc>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
   </url>
   <url>
     <loc>https://bioconductor-translations.github.io/about.html</loc>
-    <lastmod>2025-05-31T08:03:02.229Z</lastmod>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bioconductor-translations.github.io/faq.html</loc>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bioconductor-translations.github.io/index.html</loc>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bioconductor-translations.github.io/translate.html</loc>
+    <lastmod>2025-05-31T12:04:14.380Z</lastmod>
   </url>
 </urlset>

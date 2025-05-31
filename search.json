@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Quarto Website",
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Contributors",
     "section": "",
-    "text": "title: “Welcome to My Quarto Website” format: html editor: visual —"
+    "text": "Contributors"
   },
   {
-    "objectID": "index.html#latest-posts",
-    "href": "index.html#latest-posts",
-    "title": "Welcome to My Quarto Website",
-    "section": "Latest Posts",
-    "text": "Latest Posts\n\nWelcome Post"
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "News"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Welcome to My Quarto Website",
-    "section": "About",
-    "text": "About\nTo learn more about this website and its purpose, visit the About page."
+    "objectID": "status.html",
+    "href": "status.html",
+    "title": "Status",
+    "section": "",
+    "text": "Status"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,61 @@
     "title": "About",
     "section": "",
     "text": "This website is maintained by [Your Name], a passionate individual dedicated to sharing knowledge and fostering a community of learners.\nFeel free to explore the various sections of the website, including our blog posts and resources. Thank you for visiting!"
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "At least initially, we plan to limit the translation to the 4 modules of https://training.bioconductor.org/#modules.\nEventually, we hope to expand to translations of the other materials.\n\n\n\nEach language version is published at a separate address, such as\n\nhttps://bioconductor-translations.github.io/bioc-intro-ja/\nhttps://bioconductor-translations.github.io/bioc-intro-fr/\n\nCurrently, the Carpentries-style lesson publishing framework, sandpaper, does not support combining multiple languages into a single website, so we create separate websites for each language."
+  },
+  {
+    "objectID": "faq.html#what-is-the-intended-scope-for-the-content-to-be-translated",
+    "href": "faq.html#what-is-the-intended-scope-for-the-content-to-be-translated",
+    "title": "FAQ",
+    "section": "",
+    "text": "At least initially, we plan to limit the translation to the 4 modules of https://training.bioconductor.org/#modules.\nEventually, we hope to expand to translations of the other materials."
+  },
+  {
+    "objectID": "faq.html#where-will-the-translations-be-published",
+    "href": "faq.html#where-will-the-translations-be-published",
+    "title": "FAQ",
+    "section": "",
+    "text": "Each language version is published at a separate address, such as\n\nhttps://bioconductor-translations.github.io/bioc-intro-ja/\nhttps://bioconductor-translations.github.io/bioc-intro-fr/\n\nCurrently, the Carpentries-style lesson publishing framework, sandpaper, does not support combining multiple languages into a single website, so we create separate websites for each language."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bioconductor Translations",
+    "section": "",
+    "text": "To develop and publish translations of the websites for the Carpentries-style Bioconductor teaching materials.\n\n\n\nSupported by the Chan Zuckerberg Initiative (CZI) Essential Open Source Software for Science (EOSS) Bioconductor: High Quality Training and Support for a Worldwide Community grant.\n\n\n\nTranslations into French and Japanese are already published for\n\nhttps://bioconductor-translations.github.io/bioc-intro-ja/\nhttps://bioconductor-translations.github.io/bioc-intro-fr/"
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "Bioconductor Translations",
+    "section": "",
+    "text": "To develop and publish translations of the websites for the Carpentries-style Bioconductor teaching materials."
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Bioconductor Translations",
+    "section": "",
+    "text": "Supported by the Chan Zuckerberg Initiative (CZI) Essential Open Source Software for Science (EOSS) Bioconductor: High Quality Training and Support for a Worldwide Community grant."
+  },
+  {
+    "objectID": "index.html#see",
+    "href": "index.html#see",
+    "title": "Bioconductor Translations",
+    "section": "",
+    "text": "Translations into French and Japanese are already published for\n\nhttps://bioconductor-translations.github.io/bioc-intro-ja/\nhttps://bioconductor-translations.github.io/bioc-intro-fr/"
+  },
+  {
+    "objectID": "translate.html",
+    "href": "translate.html",
+    "title": "Translate",
+    "section": "",
+    "text": "Translate"
   }
 ]
