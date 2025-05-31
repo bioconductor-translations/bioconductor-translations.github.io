@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Quarto Website",
+    "section": "",
+    "text": "title: “Welcome to My Quarto Website” format: html editor: visual —"
+  },
+  {
+    "objectID": "index.html#latest-posts",
+    "href": "index.html#latest-posts",
+    "title": "Welcome to My Quarto Website",
+    "section": "Latest Posts",
+    "text": "Latest Posts\n\nWelcome Post"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Welcome to My Quarto Website",
+    "section": "About",
+    "text": "About\nTo learn more about this website and its purpose, visit the About page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to our Quarto website! This site is designed to showcase our projects and share insights on various topics.\n\n\nOur mission is to provide valuable content and resources to our audience, helping them to learn and grow in their respective fields.\n\n\n\nThis website is maintained by [Your Name], a passionate individual dedicated to sharing knowledge and fostering a community of learners.\nFeel free to explore the various sections of the website, including our blog posts and resources. Thank you for visiting!"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About",
+    "section": "",
+    "text": "Our mission is to provide valuable content and resources to our audience, helping them to learn and grow in their respective fields."
+  },
+  {
+    "objectID": "about.html#about-the-author",
+    "href": "about.html#about-the-author",
+    "title": "About",
+    "section": "",
+    "text": "This website is maintained by [Your Name], a passionate individual dedicated to sharing knowledge and fostering a community of learners.\nFeel free to explore the various sections of the website, including our blog posts and resources. Thank you for visiting!"
+  }
+]
