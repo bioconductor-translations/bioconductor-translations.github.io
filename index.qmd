@@ -1,16 +1,20 @@
-title: "Welcome to My Quarto Website"
-format: html
-editor: visual
----
+# Bioconductor Translations
 
-# Welcome to My Quarto Website
+## Mission
 
-This is the homepage of my Quarto website. Here, you can find various resources, articles, and posts that I have created.
+To develop and publish translations of the websites for the
+[Carpentries-style Bioconductor teaching materials](https://training.bioconductor.org/#modules).
 
-## Latest Posts
+## Funding
 
-- [Welcome Post](posts/welcome/index.qmd)
+Supported by the Chan Zuckerberg Initiative (CZI)
+Essential Open Source Software for Science (EOSS)
+[Bioconductor: High Quality Training and Support for a Worldwide Community](https://chanzuckerberg.com/eoss/proposals/bioconductor-high-quality-training-and-support-for-a-worldwide-community/)
+grant.
 
-## About
+## See
 
-To learn more about this website and its purpose, visit the [About](about.qmd) page.
+Translations into French and Japanese are already published for
+
+- [https://bioconductor-translations.github.io/bioc-intro-ja/](https://bioconductor-translations.github.io/bioc-intro-ja/)
+- [https://bioconductor-translations.github.io/bioc-intro-fr/](https://bioconductor-translations.github.io/bioc-intro-fr/)

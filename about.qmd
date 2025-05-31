@@ -1,9 +1,4 @@
----
-title: "About"
-format: html
----
-
-# About This Website
+# About
 
 Welcome to our Quarto website! This site is designed to showcase our projects and share insights on various topics. 
 

@@ -1,0 +1,46 @@
+# FAQ
+
+## What is the intended scope for the content to be translated?
+
+At least initially, we plan to limit the translation to the 4 modules of 
+[https://training.bioconductor.org/#modules](https://training.bioconductor.org/#modules).
+
+Eventually, we hope to expand to translations of the other materials.
+
+## Where will the translations be published?
+
+Each language version is published at a separate address, such as
+
+- [https://bioconductor-translations.github.io/bioc-intro-ja/](https://bioconductor-translations.github.io/bioc-intro-ja/)
+- [https://bioconductor-translations.github.io/bioc-intro-fr/](https://bioconductor-translations.github.io/bioc-intro-fr/)
+
+Currently, the Carpentries-style lesson publishing framework, [sandpaper](https://github.com/carpentries/sandpaper),
+does not support combining multiple languages into a single website, so we create separate websites for each language.
+
+## Can you be more specific in describing what content should be translated?
+
+
+## Why are user supplied machine translations not sufficient?
+
+
+## How is this work supported?
+
+
+
+## What languages would be involved?
+
+
+
+## What platform will be used for managing translations?
+
+
+
+## What work is expected from project maintainers?
+
+
+## Where will users report issues related to translations?
+
+
+## How will the quality of translations be verified?
+
+
